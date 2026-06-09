@@ -24,7 +24,7 @@ This Power BI dashboard helps Sales Managers analyze business performance and ma
 
 ## Dashboard Preview
 
-![Dashboard](<img width="1866" height="1069" alt="image" src="https://github.com/user-attachments/assets/3120331d-222a-454d-bbe4-f267cb6afcb4" />
+![Dashboard](https://drive.google.com/file/d/1I9kBrqUFMURc0nQWKUUz3vfFlX-4o9WM/view?usp=drive_link)
 
 
 ## Business Insights
